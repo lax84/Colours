@@ -5,3 +5,8 @@ Blue
 Green
 Pink
 Orange
+
+Animals:
+Elephant
+Tiger
+Fox
