@@ -10,3 +10,5 @@ Animals:
 Elephant
 Tiger
 Fox
+Bear
+Zebra
