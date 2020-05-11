@@ -5,6 +5,8 @@ Blue
 Green
 Pink
 Orange
+Indigo
+Purple
 
 Animals:
 Elephant
@@ -14,3 +16,4 @@ Bear
 Zebra
 Hyena
 Hippo
+Giraffe
