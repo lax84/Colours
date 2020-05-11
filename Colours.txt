@@ -8,6 +8,7 @@ Orange
 Indigo
 Purple
 Violet
+Amber
 
 Animals:
 Elephant
@@ -19,3 +20,4 @@ Hyena
 Hippo
 Giraffe
 Leapard
+Jackal
