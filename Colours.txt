@@ -7,6 +7,7 @@ Pink
 Orange
 Indigo
 Purple
+Violet
 
 Animals:
 Elephant
@@ -17,3 +18,4 @@ Zebra
 Hyena
 Hippo
 Giraffe
+Leapard
