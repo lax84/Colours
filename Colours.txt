@@ -12,4 +12,5 @@ Tiger
 Fox
 Bear
 Zebra
+Hyena
 Hippo
